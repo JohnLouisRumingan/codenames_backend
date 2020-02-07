@@ -11,6 +11,8 @@ Word.destroy_all
 
 assassin = Team.create(name: "Assassin")
 neutral = Team.create(name: "Neutral")
+red_team = Team.create(name: "Red Team")
+blue_team = Team.create(name: "Blue Team")
 
 # Word.create(name: "Dog", team: assassin)
 # Word.create(name: "Cat", team: neutral)
