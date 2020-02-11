@@ -1,0 +1,2 @@
+class CurrentGame < ApplicationRecord
+end
