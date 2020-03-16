@@ -10,3 +10,5 @@ To play, clone this repository along with the frontend repository found at https
 >rails server 
 
 Then open index.html from the front end folder. You can play with the code cards hidden from view of other players with a multi-screen setup. Game logic programmed for the entire game. Enjoy!
+
+Game app programmed by John-Louis Rumingan and Mansour Cheyo.
